@@ -1,0 +1,6 @@
+{
+  "createdBoxName": "layout-1__header-wrapper-fixed > .layout-1__header-secondary > .header-secondary > .header-secondary__left-item > .box-header-info > .box-header-info__wrapper > .txt-h3--max-1-lines",
+  "participantsToggle": "section.layout-1__header-wrapper-fixed > div.layout-1__header-secondary.header-secondary-wrapper.header-secondary-wrapper--shadow > section > div.header-secondary__right-item > div > div.toggle-menu > div.base--clickable.toggle-menu-item.toggle-menu-item--active",
+  "generalToggle": ".layout-1__header-wrapper-fixed .toggle-menu-item span",
+  "boxes": ".layout-1__header-wrapper-fixed > .layout-1__header > .header > .header__items > .layout-row-start > [href='/account/boxes'] > .header-item > .header-item__text > .txt--med"
+}

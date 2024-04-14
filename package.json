@@ -1,0 +1,22 @@
+{
+  "name": "e2e-santa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cypress.config.js",
+  "scripts": {
+    "cy:run": "npx cypress run",
+    "cy:open": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.3",
+    "@faker-js/faker": "^8.4.1"
+  },
+  "devDependencies": {
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@faker-js/faker": "^8.4.1",
+    "cypress": "^13.7.2",
+    "esbuild": "^0.20.2"
+  }
+}

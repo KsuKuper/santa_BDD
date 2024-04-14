@@ -1,0 +1,22 @@
+{
+  "userAutor": {
+    "email": "nekrashevich.k@mail.ru",
+    "password": "TZ1600",
+    "name": "ksu-autor"
+  },
+  "user1": {
+    "email": "nekrashevich.k+1@mail.ru",
+    "password": "YT7114",
+    "name": "ksu1"
+  },
+  "user2": {
+    "email": "nekrashevich.k+2@mail.ru",
+    "password": "FN6528",
+    "name": "ksu2"
+  },
+  "user3": {
+    "email": "nekrashevich.k+3@mail.ru",
+    "password": "XP9984",
+    "name": "ksu3"
+  }
+}

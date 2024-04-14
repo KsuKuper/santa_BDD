@@ -1,0 +1,10 @@
+{
+  "boxNameField": ":nth-child(1) > .frm",
+  "sixthIcon": ":nth-child(6) > .picture_svg_wrapper",
+  "giftPriceToggle": "input[type=checkbox]",
+  "maxAnount": ".MuiGrid-grid-xs-5 > .frm-wrapper > .frm",
+  "currency": ".MuiGrid-grid-xs-7 > .frm-wrapper > .frm",
+  "additionSettings": ".form-card__header",
+  "boxSettings": ".layout-1__header-wrapper-fixed > .layout-1__header-secondary > .header-secondary > .header-secondary__right-item > .toggle-menu-wrapper > .toggle-menu-button > .toggle-menu-button--inner",
+  "inputDelete": ":nth-child(2) > .form-page-group__main > .frm-wrapper > .frm"
+}

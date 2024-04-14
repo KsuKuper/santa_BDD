@@ -1,0 +1,5 @@
+{
+  "arrowRight": ".btn-arrow-right",
+  "submitButton": ".btn-main",
+  "addParticipant": ":nth-child(5) > [data-layer='Padding']"
+}
