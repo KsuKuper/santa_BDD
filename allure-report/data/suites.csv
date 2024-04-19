@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Apr 19 08:11:04 MSK 2024","Fri Apr 19 08:11:28 MSK 2024","24306","","User logins and creates a box on Santa Secret website","","","","User logins and creates a box",""
+"passed","Fri Apr 19 08:12:06 MSK 2024","Fri Apr 19 08:12:25 MSK 2024","18941","","User logins and creates a box on Santa Secret website","","","","User3 approves invitation",""
+"passed","Fri Apr 19 08:11:46 MSK 2024","Fri Apr 19 08:12:06 MSK 2024","19079","","User logins and creates a box on Santa Secret website","","","","User2 approves invitation",""
+"passed","Fri Apr 19 08:12:25 MSK 2024","Fri Apr 19 08:12:28 MSK 2024","3034","","User logins and creates a box on Santa Secret website","","","","User deletes the box",""
+"passed","Fri Apr 19 08:11:29 MSK 2024","Fri Apr 19 08:11:46 MSK 2024","17044","","User logins and creates a box on Santa Secret website","","","","User1 approves invitation",""
+"passed","Fri Apr 19 08:11:28 MSK 2024","Fri Apr 19 08:11:29 MSK 2024","717","","User logins and creates a box on Santa Secret website","","","","User adds participants",""
